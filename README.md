@@ -1,3 +1,2 @@
-# AG
-Main
-*For testings
+project
+#For testings
