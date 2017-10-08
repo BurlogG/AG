@@ -1,3 +1,0 @@
-# study project
-##
-# Snake Game
