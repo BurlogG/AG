@@ -1,2 +1,3 @@
-# project
-## For testings
+# study project
+## 
+# Snake Game
